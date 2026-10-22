@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+pydantic
+langgraph
+python-dotenv
+sqlalchemy
+httpx
+scikit-learn
+apscheduler
+psycopg[binary]
